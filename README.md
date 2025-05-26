@@ -1,2 +1,2 @@
 # Projects
-this repo for only projects
+This repo for only projects
