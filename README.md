@@ -1,2 +1,2 @@
 # Projects
-This repo for only projects
+Simple College Websites 
